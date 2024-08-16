@@ -1,0 +1,15 @@
+{
+  "name": "awebsite",
+  "version": "1.0.0",
+  "description": "MihaAssistent este un site web conceput pentru a ajuta studenții să-și gestioneze sarcinile zilnice, oferind funcționalități precum tab-uri de tip To-Do și alte instrumente utile pentru viața studențească.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.13.0"
+  }
+}
